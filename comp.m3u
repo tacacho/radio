@@ -139,3 +139,31 @@ https://playback.livepeer.studio/hls/3612a961j4sy3l7q/index.m3u8?video=false
 https://s-00.wefunkradio.com:8443/wefunk64.mp3
 #EXTINF:-1,Worldwide FM
 https://worldwidefm.out.airtime.pro:8000/worldwidefm_b
+#EXTINF:-1,Shonan Beach FM
+http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
+#EXTINF:-1,Release Radio
+https://stream.releaseradio.net/stream.mp3
+#EXTINF:-1,Foundation FM
+https://streamer.radio.co/s0628bdd53/listen
+#EXTINF:-1,Dream Chimney
+https://www.dreamchimney.com/radio/stream
+#EXTINF:-1,Radio Meuh
+https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3
+#EXTINF:-1,Radio DY10
+https://flux.radiody10.com/airtime_128
+#EXTINF:-1,It’s Not Radio
+https://streaming.radio.co/sdd2867a26/listen
+#EXTINF:-1,Kiosk Radio
+https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+#EXTINF:-1,Bangkok Community Radio
+https://listen.radioking.com/radio/437057/stream/491105
+#EXTINF:-1,n10as
+http://n10as.out.airtime.pro:8000/n10as_a
+#EXTINF:-1,Melodic Distraction
+https://streamer.radio.co/s5e1f4b6b9/listen
+#EXTINF:-1,Deep House Radio
+https://deephouseradio.radioca.st/;?1643100301657
+#EXTINF:-1,Cafe Del Mar
+https://streams.radio.co/se1a320b47/listen
+#EXTINF:-1,Nordic Lodge
+https://larry.torontocast.com:2260/stream
